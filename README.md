@@ -42,23 +42,4 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
-<p>
-  🧔 Moi c'est <bold>Stan</bold>. 21 ans, barbu et un amateur de code et de ☕.<br/>
-  💼 J'habite à <a href="https://www.google.com/maps?q=bordeaux">Bordeaux</a>, en France.<br/>
-  💻 Développeur Web <bold>T-Shaped</bold><em>(<a href="https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one">?</a>)</em> <bold><a href="https://vuejs.org">Vue.js</a></bold> × <bold><a href="https://laravel.com">Laravel</a></bold>.<br/>
-  🎥 Je fais de temps en temps des lives sur <a href="https://twitch.tv/mrstandu33">Twitch</a>, vous pourrez me voir développer des projets Open Source. <br/>
-  🎓 Mentor sur la plateforme <a href="https://github.com/OpenClassrooms">@OpenClassrooms</a> depuis 3 ans
-</p>
-<p>
-  🔗 Vous souhaitez me contacter ? Alors envoyez-moi un <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20...">mail</a>, ou passez par mon <a href="https://daniels-roth-stan.fr">site</a> !
-</p><br/>
 
-<details>
-  <summary>Quelques statistiques ...</summary><br/>
-
-Langages utilisés ces 30 derniers jours :<br/>
-<img src="https://wakatime.com/share/@mrstandu33/7df31eea-b41b-4f62-a910-493802b9a3de.svg" height="400"/>
-</details>
-
-⭐️ From [MrStanDu33](https://github.com/MrStanDu33)
