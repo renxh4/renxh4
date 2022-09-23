@@ -35,11 +35,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
   </p>
 </p><br/><br/>
-<p>
-  🎶Now playing ...🎶 <em>(powered by <a href="https://github.com/MrStanDu33/spotify-informer">spotify-explorer</a>)</em><br/>
-  <a href="http://spotify-informer.daniels-roth-stan.fr/">
-    <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
-  </a>
-</p>
+
 
 
